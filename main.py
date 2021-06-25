@@ -2,7 +2,7 @@ import telebot
 import wikipedia
 import translators as ts
 
-bot = telebot.TeleBot("1651583929:AAFYRHxD5pl7bMfZJ5Onn8kkie79_ahbWTA")
+bot = telebot.TeleBot("")
 
 switch_for_answer = int(0)
 page_id = "0"
